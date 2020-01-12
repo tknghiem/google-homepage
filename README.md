@@ -1,0 +1,1 @@
+This project is a basic recreation of the Google homepage. The purpose of this project is to practice basic HTML/CSS and basic frontend web development skills.

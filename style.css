@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+li {
+    display: inline;
+}
+
+.Nav-L {
+    padding-left: 15px;
+}
+
+.Nav-R {
+    padding-right: 15px;
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(77, 77, 77);
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#Logo {
+    display: block;
+    padding-top: 109px;
+    margin: auto;
+}
+
+#Search-Bar {
+    display: block;
+    margin: auto;
+    width: 487px;
+}
+
+#buttons {
+text-align: center;
+margin-top: 20px;
+}
+
+#button-right {
+    margin: 10px;
+}
+
+#left-foot {
+    position: absolute;
+    bottom: 20px;
+}
+
+#right-foot {
+    position: absolute;
+    bottom: 20px;
+    right: 0;
+}
+
+.foot-right {
+    padding-right: 27px;
+ }
+
+.foot-left {
+    padding-left: 27px;
+}
